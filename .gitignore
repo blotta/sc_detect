@@ -1,0 +1,8 @@
+venv/
+
+data/all_images/*
+data/*.csv
+data/reorganized
+archive.zip
+
+skin_df_balanced.pkl
